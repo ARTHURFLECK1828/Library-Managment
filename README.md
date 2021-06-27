@@ -9,6 +9,8 @@ Pillow , tkintker
 Run Main.py
 
 Default Login details:
+
 Username:Admin
+
 Password:123
  
