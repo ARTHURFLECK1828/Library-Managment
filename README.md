@@ -1,11 +1,11 @@
 # Library-Managment
 using Python &amp; SQL3
 
-**Pre-requisites:**
+# Pre-requisites:
 import the following python libraries 
 Pillow , tkintker
 
-**To start the project:**
+# To start the project:
 Run Main.py
 
 Default Login details:
@@ -13,4 +13,4 @@ Default Login details:
 Username:Admin
 
 Password:123
- 
+# Project Snapshots
